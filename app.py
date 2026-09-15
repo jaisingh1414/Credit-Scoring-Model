@@ -18,7 +18,7 @@ st.set_page_config(
 # Load Model
 # -----------------------------
 
-model = joblib.load("models/credit_risk_model.pkl")
+model = joblib.load("models/credit_risk_model_compressed.pkl")
 
 
 # -----------------------------

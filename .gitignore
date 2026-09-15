@@ -12,5 +12,5 @@ venv/
 # VS Code
 .vscode/
 
-# Trained model - too large for normal GitHub
-models/
+# Ignore original large model
+models/credit_risk_model.pkl
